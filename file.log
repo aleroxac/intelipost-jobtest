@@ -1,0 +1,19 @@
+2019-01-31 00:02:15,103 [scheduled-executor-6] [INFO ] [impl.TrackingRuleEngineAndServiceImpl] [] -- actions from tracking rule 614 will be applied over volume 97209963
+2019-01-31 00:02:15,103 [scheduled-executor-6] [INFO ] [impl.TrackingRuleEngineAndServiceImpl] [] -- executing action WEBHOOK of rule 614
+2019-01-31 00:02:15,113 [scheduled-executor-6] [INFO ] [aop.TrackingRuleAppliedEventListener] [] -- Try to generate intelipost event from tracking rule applied. ClientId: 992, Rule: 614, Type: WEBHOOK, Date: 2019-01-30T17:42:00.000Z
+2019-01-31 00:02:15,113 [scheduled-executor-6] [INFO ] [impl.TrackingRuleEngineAndServiceImpl] [] -- result size is 1
+2019-01-31 00:02:15,114 [scheduled-executor-6] [INFO ] [util.CacheableInvokerService] [] -- Value not found in cache for hash: TRACKING_DATA#sadgjasdgs6d727678w6hssda78adsads
+2019-01-31 00:02:15,158 [scheduled-executor-6] [INFO ] [impl.EventServiceSnsImpl] [] -- successfully sent shipment order event for so_id: 75729951
+2019-01-31 00:02:15,180 [scheduled-executor-6] [INFO ] [impl.TrackingRuleEngineAndServiceImpl] [] -- actions from tracking rule 614 will be applied over volume 96542476
+2019-01-31 00:02:15,180 [scheduled-executor-6] [INFO ] [impl.TrackingRuleEngineAndServiceImpl] [] -- executing action WEBHOOK of rule 614
+2019-01-31 00:02:15,196 [scheduled-executor-6] [INFO ] [aop.TrackingRuleAppliedEventListener] [] -- Try to generate intelipost event from tracking rule applied. ClientId: 992, Rule: 614, Type: WEBHOOK, Date: 2019-01-30T19:15:00.000Z
+2019-01-31 00:02:15,196 [scheduled-executor-6] [INFO ] [impl.TrackingRuleEngineAndServiceImpl] [] -- result size is 1
+2019-01-31 00:02:15,196 [scheduled-executor-6] [INFO ] [impl.TrackingRuleEngineAndServiceImpl] [] -- actions from tracking rule 614 will be applied over volume 96542475
+2019-01-31 00:02:15,196 [scheduled-executor-6] [INFO ] [impl.TrackingRuleEngineAndServiceImpl] [] -- executing action WEBHOOK of rule 614
+2019-01-31 00:02:15,212 [scheduled-executor-6] [INFO ] [aop.TrackingRuleAppliedEventListener] [] -- Try to generate intelipost event from tracking rule applied. ClientId: 992, Rule: 614, Type: WEBHOOK, Date: 2019-01-30T19:15:00.000Z
+2019-01-31 00:02:15,212 [scheduled-executor-6] [INFO ] [impl.TrackingRuleEngineAndServiceImpl] [] -- result size is 1
+2019-01-31 00:02:15,213 [scheduled-executor-6] [INFO ] [util.CacheableInvokerService] [] -- Value not found in cache for hash: TRACKING_DATA#87sda98ds7ads87ads9asdasdiusayiudasy
+2019-01-31 00:02:15,239 [scheduled-executor-6] [INFO ] [impl.EventServiceSnsImpl] [] -- successfully sent shipment order event for so_id: 76272504
+2019-01-31 00:02:15,247 [scheduled-executor-6] [INFO ] [impl.TrackingRuleEngineAndServiceImpl] [] -- actions from tracking rule 614 will be applied over volume 97213768
+2019-01-31 00:02:15,247 [scheduled-executor-6] [INFO ] [impl.TrackingRuleEngineAndServiceImpl] [] -- executing action WEBHOOK of rule 614
+2019-01-31 00:02:15,257 [scheduled-executor-6] [INFO ] [aop.TrackingRuleAppliedEventListener] [] -- Try to generate intelipost event from tracking rule applied. ClientId: 992, Rule: 614, Type: WEBHOOK, Date: 2019-01-30T18:12:00.000Z
