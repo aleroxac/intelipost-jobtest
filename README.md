@@ -1,7 +1,5 @@
 # O meu desafio
 Montar um parser em python para 2 arquivos, que rode em um container e que gere um arquivo csv para cada.
-
-## To-do
 - [x] Gerar o csv do arquivo de log através de seu o parsing
 - [x] Gerar o csv do arquivo json através de seu o parsing
 - [x] Criar um arquivo docker-compose.yml que executará o parser de cada arquivo em imagens diferentes
