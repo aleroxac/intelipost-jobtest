@@ -1,14 +1,10 @@
-Implementação do desafio proposto para vaga de Analista DevOps na Intelipost.
-Link do desafio: https://github.com/intelipost/job-test-devops
-
-
 # O meu desafio
 Montar um parser em python para 2 arquivos, que rode em um container e que gere um arquivo csv para cada.
 
+## To-do
 - [x] Gerar o csv do arquivo de log através de seu o parsing
 - [x] Gerar o csv do arquivo json através de seu o parsing
 - [x] Criar um arquivo docker-compose.yml que executará o parser de cada arquivo em imagens diferentes
-
 
 ## Modo de uso
 ``` bash
@@ -23,10 +19,9 @@ sudo docker-compose run -v $PWD:/code parser-json python parser.py -j
 
 # Gerando e executando o container do parser via Docker
 sudo docker build -t parser .
-sudo docker run test56 -v $PWD:/code python parser.py -l
-sudo docker run test56 -v $PWD:/code python parser.py -j
+sudo docker run parser -v $PWD:/code python parser.py -l
+sudo docker run parser -v $PWD:/code python parser.py -j
 ```
-
 ## Requisitos
 - python3
 - docker
