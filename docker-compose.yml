@@ -1,0 +1,5 @@
+parser-log:
+  build: .
+
+parser-json:
+  build: .
